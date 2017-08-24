@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploAplicacaoMobileCenter", "ExemploAplicacaoMobileCenter\ExemploAplicacaoMobileCenter\ExemploAplicacaoMobileCenter.csproj", "{FB38C3B0-C171-4575-BC15-5839E39F6941}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeAppMobileCenter", "ExeAppMobileCenter\ExeAppMobileCenter\ExeAppMobileCenter.csproj", "{FB38C3B0-C171-4575-BC15-5839E39F6941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploAplicacaoMobileCenter.Android", "ExemploAplicacaoMobileCenter\ExemploAplicacaoMobileCenter.Android\ExemploAplicacaoMobileCenter.Android.csproj", "{06B509FC-5CEA-4A1B-A35A-51BEF4B20154}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeAppMobileCenter.Android", "ExeAppMobileCenter\ExeAppMobileCenter.Android\ExeAppMobileCenter.Android.csproj", "{06B509FC-5CEA-4A1B-A35A-51BEF4B20154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploAplicacaoMobileCenter.iOS", "ExemploAplicacaoMobileCenter\ExemploAplicacaoMobileCenter.iOS\ExemploAplicacaoMobileCenter.iOS.csproj", "{A5E79C71-055B-44A7-888D-5C959F41A72E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeAppMobileCenter.iOS", "ExeAppMobileCenter\ExeAppMobileCenter.iOS\ExeAppMobileCenter.iOS.csproj", "{A5E79C71-055B-44A7-888D-5C959F41A72E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploAplicacaoMobileCenter.UITest", "ExemploAplicacaoMobileCenter\ExemploAplicacaoMobileCenter.UITest\ExemploAplicacaoMobileCenter.UITest.csproj", "{8C979A79-C04C-4217-A342-B702B16408D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeAppMobileCenter.UITest", "ExeAppMobileCenter\ExeAppMobileCenter.UITest\ExeAppMobileCenter.UITest.csproj", "{8C979A79-C04C-4217-A342-B702B16408D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

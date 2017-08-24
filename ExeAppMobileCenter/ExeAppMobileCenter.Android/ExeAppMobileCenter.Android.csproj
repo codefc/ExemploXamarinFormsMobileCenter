@@ -110,7 +110,7 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\profile_generic.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ExemploAplicacaoMobileCenter\ExemploAplicacaoMobileCenter.csproj">
+    <ProjectReference Include="..\ExeAppMobileCenter\ExeAppMobileCenter.csproj">
       <Project>{4ceff7aa-717a-4276-b84e-c991f77a60b9}</Project>
       <Name>ExemploAplicacaoMobileCenter</Name>
     </ProjectReference>
